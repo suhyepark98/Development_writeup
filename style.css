@@ -1,0 +1,32 @@
+body {
+    font-family: Monaco;
+    font-weight: 100;
+}
+
+h1,
+h2, 
+h3, 
+h4,
+h5,
+h6 {
+    font-family: 'Bradley Hand', cursive;
+    font-weight: 300;
+    color: black;
+}
+
+h2 {
+    padding-top: 2rem;
+}
+
+.blankets {
+    background: url(./img/shopping.png) center;
+    height: calc(100vh - 56px);
+}
+
+img.divider{
+    margin: 2rem auto 3rem auto !important; 
+}
+
+.section-head {
+    display: inline;
+}
